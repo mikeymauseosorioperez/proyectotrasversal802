@@ -1,0 +1,39 @@
+.contenedor{ 
+
+
+
+    width: 100%;
+    height: 1400px;
+    background-color: rgb(17, 17, 236);
+}
+.encabezado{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(9, 50, 126);
+}
+.menu{
+    width: 100%;
+    height: 80px;
+    background-color: cyan;
+}
+.contenedor2{
+    display: flex;
+width: 100%;
+height: 1200px;
+background-color:rgb(255, 255, 255) ;
+}
+.izquierda{
+    width: 33.3%;
+    height: 1200px;
+    background-color: rgb(255, 255, 255);
+}
+.centro{
+width: 33.3%;
+height: 1200px;
+background-color: rgb(255, 248, 154);
+}
+.derecho{
+    width: 33.3%;
+    height: 1200px;
+    background-color: antiquewhite;
+}
