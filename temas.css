@@ -15,6 +15,7 @@
     width: 100%;
     height: 80px;
     background-color: cyan;
+    display: flex;
 }
 .contenedor2{
     display: flex;
@@ -36,4 +37,25 @@ background-color: rgb(255, 248, 154);
     width: 33.3%;
     height: 1200px;
     background-color: antiquewhite;
+}   
+.sociales{
+    width: 100px;
+    height: 78px;
+    background-color: bisque;
 }
+.biologia{
+    width: 100px;
+    height:78px ;
+background-color: rgb(219, 157, 81);
+}
+.matematicas{
+    width: 100px;
+    height: 78px;
+    background-color: coral;
+}
+.tecnologia{
+    width: 100px;
+    height: 78px;
+    background-color: rgb(228, 139, 107);
+}
+
